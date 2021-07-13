@@ -8,4 +8,3 @@ A proposta modelo da atividade:
 
 - Esquema de potência e comando: estrela/triângulo MAT (Prudente, 2015)
 
-![alt text](https://github.com/danielaczarref/Star-Delta-Start-Engine/blob/master/PropostaImplementacao.png?raw=true)
